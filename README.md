@@ -1,16 +1,47 @@
-# infantproduct
+# Infant Products Flutter App
 
-A new Flutter project.
+A Flutter-based mobile application developed for browsing and managing infant products.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Infant product browsing
+- Product categories
+- Product images
+- User-friendly mobile interface
+- Product-focused shopping experience
+- Flutter-based cross-platform application
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material UI
+- Android
+- iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Project Structure
+
+The application contains product-related sections including:
+
+- Baby Care
+- Baby Diaper
+- Baby Powder
+- Product Images
+
+## ▶️ How to Run
+
+### Requirements
+
+- Flutter SDK
+- Dart
+- Android Studio or VS Code
+- Android Emulator or physical device
+
+### Installation
+
+1. Clone this repository.
+2. Open the project in Android Studio or VS Code.
+3. Run:
+
+```bash
+flutter pub get
